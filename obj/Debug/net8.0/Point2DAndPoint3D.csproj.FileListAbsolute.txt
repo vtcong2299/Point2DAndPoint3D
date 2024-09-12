@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\bin\Debug\net8.0\Point2DAndPoint3D.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\bin\Debug\net8.0\Point2DAndPoint3D.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\bin\Debug\net8.0\Point2DAndPoint3D.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\bin\Debug\net8.0\Point2DAndPoint3D.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\bin\Debug\net8.0\Point2DAndPoint3D.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\refint\Point2DAndPoint3D.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\Point2DAndPoint3D.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\Point2DAndPoint3D\obj\Debug\net8.0\ref\Point2DAndPoint3D.dll
